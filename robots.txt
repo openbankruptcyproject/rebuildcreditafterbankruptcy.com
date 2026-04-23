@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rebuildcreditafterbankruptcy.com/sitemap.xml
+
+Sitemap: https://rebuildcreditafterbankruptcy.com/sitemapindex.xml
