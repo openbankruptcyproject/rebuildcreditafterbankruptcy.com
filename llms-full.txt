@@ -1,6 +1,6 @@
 # rebuildcreditafterbankruptcy.com -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on rebuildcreditafterbankruptcy.com.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -55,16 +55,33 @@ Buy a House After ·
 Buy a Car After ·
 Automatic Stay
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Secured Cards ·
-Score Timeline ·
-FAQ ·
-By State
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -79,6 +96,8 @@ Getting a Car Loan After Bankruptcy
 You need a car. You have a bankruptcy on your record. Here is when to apply, what rates to expect, and how to avoid getting ripped off by predatory lenders.
 
 Home›Getting a Car Loan After Bankruptcy | rebuildcreditafterbankruptcy.com
+
+Technically yes, but the rates will be extremely high - often 15% to 25% APR from subprime lenders. Most experts recommend waiting at least 6 to 12 months after discharge, building credit with a secured card first, to qualify for rates in the 8% to 14% range.
 
 Yes, you can get a car loan after bankruptcy
 
@@ -134,7 +153,7 @@ Related Topics
 
 Buying a House After BKThe Automatic StayChapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 Support on GitHub
 
 Further Reading & Resources
@@ -188,14 +207,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -221,6 +257,8 @@ Credit Builder Loans After Bankruptcy
 Add an installment account to your credit report without borrowing money you do not have. Here is how credit builder loans work and why they matter.
 
 Home›Credit Builder Loans After Bankruptcy - How They Work | rebuildcreditafterbankruptcy.com
+
+A credit builder loan is a small loan - typically $300 to $1,000 - where the lender holds the loan proceeds in a savings account while you make monthly payments. After you finish paying, you receive the money. The lender reports your on-time payments to the credit bureaus, building your installment credit history.
 
 How credit builder loans work
 
@@ -287,7 +325,7 @@ Buying a House After BK
 Bankruptcy Fresh Start
 Chapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Support on GitHub
 
@@ -342,14 +380,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -366,6 +421,8 @@ Credit Monitoring After Bankruptcy
 Track your rebuild progress, catch errors on discharged debts, and protect yourself from identity theft - all for free.
 
 Home›Credit Monitoring After Bankruptcy - Free Tools and Strategies | rebuildcreditafterbankruptcy.com
+
+Credit Karma (TransUnion and Equifax), Experian Free (Experian), and AnnualCreditReport.com are all free. Credit Karma provides weekly VantageScore updates and alerts for new accounts or inquiries. For a complete picture, use all three to monitor all three bureaus.
 
 Why monitoring matters after bankruptcy
 
@@ -416,11 +473,11 @@ Set it and forget it: Sign up for Credit Karma (free, covers TransUnion and Equi
 Related Topics
 
 1328(f) Discharge Screener
-Rule 9037 PII Scanner (Open Source)
+Rule 9037 Compliance Guide
 
 Improving Credit for MortgageBankruptcy Fresh Start524 Discharge Injunction
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 Support on GitHub
 
 Further Reading & Resources
@@ -474,14 +531,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · Monitoring · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -507,6 +581,8 @@ Credit Score Recovery Timeline After Bankruptcy
 A realistic, month-by-month look at how your credit score recovers after Chapter 7 or Chapter 13 discharge - and what you can do to speed it up.
 
 Home›Credit Score Timeline
+
+Most Chapter 7 filers see their credit score drop to the low 500s immediately after filing. Within 6 months of discharge, scores typically recover to the mid-500s. With a secured credit card and on-time payments, scores in the low 600s are common within 12 months.
 
 The typical recovery arc
 
@@ -585,7 +661,7 @@ Bankruptcy Fresh Start
 What Is Chapter 7?
 Chapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Support on GitHub
 
@@ -640,14 +716,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -664,6 +757,8 @@ FAQ - Rebuilding Credit After Bankruptcy
 Answers to the most common questions people ask about credit scores, credit cards, loans, and financial life after bankruptcy discharge.
 
 Home›FAQ - Rebuilding Credit After Bankruptcy | rebuildcreditafterbankruptcy.com
+
+Yes. Most bankruptcy filers who actively rebuild their credit reach scores above 700 within 3 to 5 years. The bankruptcy stays on your report for 7 years (Chapter 13) or 10 years (Chapter 7), but its impact on your score diminishes steadily as new positive tradelines age.
 
 Frequently Asked Questions
 
@@ -707,7 +802,7 @@ Is debt consolidation better than bankruptcy?
 
 It depends. Debt consolidation does not reduce principal - it restructures payments. Bankruptcy eliminates qualifying debt under 11 U.S.C. § 727 (Chapter 7) or reduces it through a plan under § 1325 (Chapter 13). If debts are unmanageable, bankruptcy often provides a faster, more complete fresh start.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 Support on GitHub
 
 Further Reading & Resources
@@ -761,14 +856,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -821,16 +933,33 @@ Buy a House After ·
 Buy a Car After ·
 Automatic Stay
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Secured Cards ·
-Score Timeline ·
-FAQ ·
-By State
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -845,6 +974,8 @@ How Long Does Bankruptcy Stay on Your Credit Report?
 Chapter 7 stays 10 years. Chapter 13 stays 7 years. But the impact on your credit score fades much faster than most people think.
 
 Home›How Long Does Bankruptcy Stay on Your Credit Report? | rebuildcreditafterbankruptcy.com
+
+A Chapter 7 bankruptcy stays on your credit report for 10 years from the date of filing, as specified by the Fair Credit Reporting Act, 15 U.S.C. Section 1681c(a)(1). After 10 years, the credit bureaus must remove it automatically.
 
 The reporting periods
 
@@ -908,7 +1039,7 @@ Related Topics
 
 File Bankruptcy Again1328(f) Discharge ScreenerDischarge Bar Rules
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 Support on GitHub
 
 Further Reading & Resources
@@ -962,14 +1093,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -992,7 +1140,7 @@ Mortgage
 On Report
 FAQ
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Rebuild Credit After Bankruptcy
 
@@ -1006,6 +1154,8 @@ Bankruptcy stays on credit report
 
 ~750K
 Bankruptcies filed per year in the U.S.
+
+Most people see meaningful credit score improvement within 12 to 24 months of their bankruptcy discharge. With consistent on-time payments on a secured credit card or credit builder loan, scores in the 600s are common within 1 to 2 years. Scores above 700 typically take 3 to 5 years of disciplined credit use.
 
 The fresh start is real - but it takes work
 
@@ -1142,7 +1292,7 @@ The Automatic Stay - How 11 U.S.C. Section 362 protects you during bankruptcy
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
@@ -1156,9 +1306,7 @@ Subscribe
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1301,25 +1449,63 @@ California · Texas · Florida · New York · Illinois · Ohio
 
 Browse All 50 State Guides →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Timeline ·
-Secured Cards ·
-Builder Loans ·
-Auto Loans ·
-Mortgage ·
-On Report ·
-FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+Privacy |
+Terms
 
-Cited by the Federal Rules Committee (26-BK-3)
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Financial Recovery After Bankruptcy
+Index
+Renting After Bankruptcy
 
 ---
 
@@ -1334,6 +1520,8 @@ Getting a Mortgage After Bankruptcy
 Homeownership after bankruptcy is not only possible - it happens every day. Here are the waiting periods, credit requirements, and loan options for every major mortgage program.
 
 Home›Getting a Mortgage After Bankruptcy - FHA, VA, Conventional | rebuildcreditafterbankruptcy.com
+
+FHA loans: 2 years after Chapter 7 discharge, 1 year of on-time Chapter 13 plan payments. VA loans: 2 years after Chapter 7, 1 year in Chapter 13. Conventional loans (Fannie Mae/Freddie Mac): 4 years after Chapter 7 discharge, 2 years after Chapter 13 discharge. USDA loans: 3 years after Chapter 7.
 
 Waiting periods by loan type
 
@@ -1399,7 +1587,7 @@ Related Topics
 
 Buying a House After BKFHA Loans After BKVA Loans After BK
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 Support on GitHub
 
 Further Reading & Resources
@@ -1453,14 +1641,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1513,16 +1718,33 @@ Buy a House After ·
 Buy a Car After ·
 Automatic Stay
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home ·
-Secured Cards ·
-Score Timeline ·
-FAQ ·
-By State
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -1546,6 +1768,8 @@ Best Secured Credit Cards After Bankruptcy
 A secured credit card is the single most effective tool for rebuilding credit after bankruptcy. Here is how they work and what to look for.
 
 Home›Best Secured Credit Cards After Bankruptcy | rebuildcreditafterbankruptcy.com
+
+Yes. Most secured credit card issuers accept applications from discharged bankruptcy filers immediately. You provide a refundable cash deposit - typically $200 to $500 - that serves as your credit limit. The issuer reports your payments to all three credit bureaus.
 
 How secured cards work
 
@@ -1607,7 +1831,7 @@ Improving Credit for Mortgage
 Bankruptcy Fresh Start
 How Much Does BK Cost?
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
 
 Support on GitHub
 
@@ -1662,14 +1886,31 @@ Mortgage options after bankruptcy discharge
 
 buyahouseafterbankruptcy.com →
 
-Free bankruptcy education. Not legal advice.
+Part of the Bankruptcy Transparency Network
 
-Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
+Real information, no strings.
 
-This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Privacy | Terms | Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1797,7 +2038,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -1923,7 +2166,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2049,7 +2294,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2175,7 +2422,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2301,7 +2550,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2427,7 +2678,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2553,7 +2806,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2679,7 +2934,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2805,7 +3062,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -2931,7 +3190,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3057,7 +3318,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3183,7 +3446,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3309,7 +3574,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3435,7 +3702,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3559,7 +3828,31 @@ Wyoming
 
 Free bankruptcy education. Not legal advice.
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
 
 ---
 
@@ -3685,7 +3978,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3811,7 +4106,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -3937,7 +4234,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4063,7 +4362,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4189,7 +4490,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4315,7 +4618,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4441,7 +4746,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4567,7 +4874,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4693,7 +5002,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4819,7 +5130,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -4945,7 +5258,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5071,7 +5386,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5197,7 +5514,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5323,7 +5642,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5449,7 +5770,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5575,7 +5898,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5701,7 +6026,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5827,7 +6154,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -5953,7 +6282,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6079,7 +6410,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6205,7 +6538,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6331,7 +6666,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6457,7 +6794,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6583,7 +6922,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6709,7 +7050,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6835,7 +7178,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -6961,7 +7306,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7087,7 +7434,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7213,7 +7562,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7339,7 +7690,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7465,7 +7818,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7591,7 +7946,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7717,7 +8074,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7843,7 +8202,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -7969,7 +8330,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8095,7 +8458,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8221,7 +8586,9 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+A project of the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631).
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
 
 ---
 
@@ -8281,7 +8648,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -8291,6 +8658,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About rebuildcreditafterbankruptcy.com
+Source: https://rebuildcreditafterbankruptcy.com/about.html
+
+rebuildcreditafterbankruptcy.com
+
+Home
+About
+Privacy
+
+About rebuildcreditafterbankruptcy.com
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+rebuildcreditafterbankruptcy.com is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
